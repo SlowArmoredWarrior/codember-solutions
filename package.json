@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/codesandbox-app/static-template#readme",
   "devDependencies": {
+    "eslint": ">=5.16.0",
+    "eslint-config-google": "^0.14.0",
     "nodemon": "^3.0.1"
   },
   "dependencies": {}
