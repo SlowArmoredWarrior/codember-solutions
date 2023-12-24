@@ -23,8 +23,8 @@ And **you** for look this repository and give your star bro :D
 
 ## Progress Of The Challenge
 - CHALLENGE_01 *Completed*
-- CHALLENGE_02 *Completed* **Waiting for documentation**
-- CHALLENGE_03 *Uncompleted* **Not implemented**
+- CHALLENGE_02 *Completed*
+- CHALLENGE_03 *Completed*
 - CHALLENGE_04 *Uncompleted* **Not implemented**
 - CHALLENGE_05 *Uncompleted* **Not implemented**
 
