@@ -5,7 +5,7 @@ import {resolve} from 'path';
 const FILE_PATH = resolve('challenges/files/01.txt');
 
 // text buffer
-const message = await readFileSync(FILE_PATH, {encding: 'utf8'}).toString();
+const message = readFileSync(FILE_PATH, {encding: 'utf8'}).toString();
 
 /**
  * push new word on the word list
