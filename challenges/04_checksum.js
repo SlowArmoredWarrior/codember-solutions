@@ -10,8 +10,8 @@ const THE_INDEX = 32;
 
 /**
  * Verifies if the filename has intersection with the checksum str
- * @param {string} file
- * @param {string} checksum
+ * @param {string} file the file name
+ * @param {string} checksum comprobation sum
  * @return {boolean}
  */
 const isProperlyChecksum = (file, checksum) => {
@@ -31,8 +31,8 @@ const isProperlyChecksum = (file, checksum) => {
 
 /**
  * Solves the challenge given the previous functions / vars
- * @param {Array<Array<string>>} names
- * @return {string}
+ * @param {Array<Array<string>>} names list of the file names
+ * @return {string} the solution string
  */
 const solution = (names) => {
   const trueLabels = [];
