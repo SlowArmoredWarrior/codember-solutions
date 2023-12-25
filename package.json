@@ -1,8 +1,8 @@
 {
-  "name": "nodejs-sandbox",
+  "name": "codember-solutions",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "codember challenge solutions",
   "main": "index.html",
   "scripts": {
     "start": "nodemon index.js"
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/codesandbox-app/static-template.git"
   },
   "keywords": [],
-  "author": "Ives van Hoorne",
+  "author": "SlowArmoredWarrior",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/codesandbox-app/static-template/issues"

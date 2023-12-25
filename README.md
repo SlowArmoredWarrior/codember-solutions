@@ -26,5 +26,6 @@ And **you** for look this repository and give your star bro :D
 - CHALLENGE_02 *Completed*
 - CHALLENGE_03 *Completed*
 - CHALLENGE_04 *Completed*
-- CHALLENGE_05 *Uncompleted* **Not implemented**
+- CHALLENGE_05 *Completed*
 
+<h3 align="center">SUCCESSFULLY COMPLETED :D</h3>
